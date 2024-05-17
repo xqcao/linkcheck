@@ -26,6 +26,9 @@
     </style>
 </head>
 <body>
+<ol>
+<li><a href="/">Home</a></li>
+</ol>
     <h1>Link Status</h1>
     <table>
         <thead>
